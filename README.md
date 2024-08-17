@@ -1,1 +1,1 @@
-# Colour-Generation-and-Detection
+# RGB Colour Generation
