@@ -1,4 +1,9 @@
 # RGB Colour Generation
+
+IDE - Keil Studio
+
+Microcontroller - LPC1768 MBed board
+
 1) Generation of red, green, and blue colours in RGB LED separately with interval of 2 seconds using MBed platform.
 
 2) Generation of Yellow, Purple and White colours in RGB LED separately with interval of 2 seconds using MBed platform.
